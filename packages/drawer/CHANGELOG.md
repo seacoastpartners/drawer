@@ -1,5 +1,11 @@
 # drawer
 
+## 0.4.2
+
+### Patch Changes
+
+- 29d2f46: Change scaled background border radius to 16
+
 ## 0.4.1
 
 ### Patch Changes
